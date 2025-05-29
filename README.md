@@ -1,6 +1,6 @@
-# Mod3 Capstone Project
+# Aerolite
 
-A modern React application showcasing advanced frontend development skills.
+A modern React application AeroLite is a lightweight React-based web application designed for optimal performance and user experience. Built with modern frontend technologies, it demonstrates efficient state management, responsive UI components, and seamless interactivity.
 
 
 ![Project Screenshot](./screenshot/screenshot.jpg)  
