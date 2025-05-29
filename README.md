@@ -1,9 +1,10 @@
 # Mod3 Capstone Project
 
-![Project Screenshot](./screenshot/screenshot.jpg)  
-*Replace with actual screenshot*
-
 A modern React application showcasing advanced frontend development skills.
+
+
+![Project Screenshot](./screenshot/screenshot.jpg)  
+
 
 ## Features
 
