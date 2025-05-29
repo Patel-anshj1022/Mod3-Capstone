@@ -21,7 +21,7 @@ Access the live project at:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/mod3-capstone.git
+git clone https://github.com/Patel-anshj1022/mod3-capstone.git
 npm install
 npm run dev/npm run start
 
